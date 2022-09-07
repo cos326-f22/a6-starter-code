@@ -1,0 +1,3 @@
+(library
+ (name a6lib)
+ (libraries str num unix))

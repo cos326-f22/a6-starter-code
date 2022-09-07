@@ -1,0 +1,8 @@
+(executable
+ (name main)
+ (libraries a6lib))
+
+(install
+  (section bin)
+  (files
+    (main.exe as main)))
