@@ -26,8 +26,6 @@
  *
  *   % ocaml nums.cma
  *
- * To use ocamlbuild, see the associated Makefile.
- *
  * Some useful operators from the num library include:
  *  (+/) addition on num
  *  (-/) subtraction on nums

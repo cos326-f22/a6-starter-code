@@ -733,9 +733,9 @@ called `fast_lcs` that avoids computing subproblems more than once.
 ### Question 4.5
 
 Create a *very simple* experiment that demonstrates the speed up gained from
-memoizing `lcs`. Run that experiment in main and have main print out something
-informative that demonstrates the speedup. Explain what you have done in a brief
-comment in the code.
+memoizing `lcs`. Run that experiment in main and have main return as a string
+something informative that demonstrates the speedup. Explain what you have done
+in a brief comment in the code.
 
 ## Handin Instructions
 
