@@ -62,8 +62,10 @@ let fast_lcs (ds : dna * dna) : dna =  failwith "unimplemented"
 (* Implement some experiment that shows performance difference
  * between slow_lcs and fast_lcs. (Return your results as a string.)
  * Explain in a brief comment what your experiment shows.        *)
-let main () =
+let return_experiment () : string =
   "nothing yet ...\n"
+
+let main () = print_string (return_experiment ())
 
 
 (*
