@@ -747,8 +747,8 @@ Your assignment will be automatically submitted every time you push your changes
 to your GitHub repository. Within a couple minutes of your submission, the
 autograder will make a comment on your commit listing the output of our testing
 suite when run against your code. **Note that you will be graded only on your
-changes to `queue.txt`, `streams.ml`, <!-- `queue.ml`, --> `fib.ml`,
-`memoizer.ml`, and `lcs.ml`**, and not on your changes to any other files.
+changes to `queue.txt` and `streams.ml`**, and not on your changes to any other
+files.
 
 You may submit and receive feedback in this way as many times as you like,
 whenever you like.
